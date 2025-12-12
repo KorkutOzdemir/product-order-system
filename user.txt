@@ -1,0 +1,6 @@
+Email: korkut@gmail.com, Password: 123
+Email: mert@gmail.com, Password: 123
+Email: cem@gmail.com, Password: 123
+Email: asd@gmail.com, Password: 123
+Email: ahmet@gmail.com, Password: 123
+Email: fatma@gmail.com, Password: 1234

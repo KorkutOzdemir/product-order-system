@@ -1,0 +1,61 @@
+
+[Fri Jun 13 12:14:00 GMT+03:00 2025] Product added to cart: Iphone, Price: 1000.0 by: unknown
+[Fri Jun 13 12:14:00 GMT+03:00 2025] Discounted Total Updated: $900.0
+[Fri Jun 13 15:21:34 GMT+03:00 2025] Product added to cart: Lenovo, Price: 3000.0 by: unknown
+[Fri Jun 13 15:21:34 GMT+03:00 2025] Discounted Total Updated: $2700.0
+[Fri Jun 13 17:05:30 GMT+03:00 2025] Product added to cart: Notebook, Price: 350.0 by: cem@gmail.com
+[Fri Jun 13 17:05:30 GMT+03:00 2025] Discounted Total Updated: $315.0
+[Fri Jun 13 17:05:42 GMT+03:00 2025] Product added to cart: Notebook, Price: 350.0 by: cem@gmail.com
+[Fri Jun 13 17:05:42 GMT+03:00 2025] Discounted Total Updated: $630.0
+[Fri Jun 13 17:06:04 GMT+03:00 2025] Product removed from cart: Notebook, Price: 350.0 by: cem@gmail.com
+[Fri Jun 13 17:06:06 GMT+03:00 2025] Product removed from cart: Notebook, Price: 350.0 by: cem@gmail.com
+[Fri Jun 13 17:06:13 GMT+03:00 2025] Product added to cart: Monster, Price: 4000.0 by: cem@gmail.com
+[Fri Jun 13 17:06:13 GMT+03:00 2025] Discounted Total Updated: $3600.0
+[Fri Jun 13 17:10:21 GMT+03:00 2025] Product added to cart: Nokia, Price: 250.0 by: cem@gmail.com
+[Fri Jun 13 17:10:21 GMT+03:00 2025] Discounted Total Updated: $225.0
+[Fri Jun 13 17:10:37 GMT+03:00 2025] Product added to cart: Macbook, Price: 5000.0 by: cem@gmail.com
+[Fri Jun 13 17:10:37 GMT+03:00 2025] Discounted Total Updated: $4725.0
+[Fri Jun 13 17:39:17 GMT+03:00 2025] Product added to cart: Nokia, Price: 300.0 by: cem@gmail.com
+[Fri Jun 13 17:39:17 GMT+03:00 2025] Discounted Total Updated: $270.0
+[Fri Jun 13 17:39:25 GMT+03:00 2025] Product removed from cart: Nokia, Price: 300.0 by: cem@gmail.com
+[Fri Jun 13 17:51:06 GMT+03:00 2025] Product added to cart: Test, Price: 11111.0 by: korkut@gmail.com
+[Fri Jun 13 17:51:06 GMT+03:00 2025] Discounted Total Updated: $9999.9
+[Fri Jun 13 17:51:13 GMT+03:00 2025] Product added to cart: Test, Price: 11111.0 by: korkut@gmail.com
+[Fri Jun 13 17:51:13 GMT+03:00 2025] Discounted Total Updated: $19999.8
+[Fri Jun 13 17:51:22 GMT+03:00 2025] Product removed from cart: Test, Price: 11111.0 by: korkut@gmail.com
+[Fri Jun 13 17:51:24 GMT+03:00 2025] Product removed from cart: Test, Price: 11111.0 by: korkut@gmail.com
+[Fri Jun 13 17:56:27 GMT+03:00 2025] Product added to cart: Test, Price: 11111.0 by: cem@gmail.com
+[Fri Jun 13 17:56:27 GMT+03:00 2025] Discounted Total Updated: $9999.9
+[Fri Jun 13 17:56:34 GMT+03:00 2025] Product removed from cart: Test, Price: 11111.0 by: cem@gmail.com
+[Fri Jun 13 17:59:28 GMT+03:00 2025] Product added to cart: Lenovo, Price: 3000.0 by: cem@gmail.com
+[Fri Jun 13 17:59:28 GMT+03:00 2025] Discounted Total Updated: $2700.0
+[Fri Jun 13 17:59:39 GMT+03:00 2025] Product added to cart: Monster, Price: 4000.0 by: cem@gmail.com
+[Fri Jun 13 17:59:39 GMT+03:00 2025] Discounted Total Updated: $6300.0
+[Fri Jun 13 17:59:41 GMT+03:00 2025] Product removed from cart: Monster, Price: 4000.0 by: cem@gmail.com
+[Fri Jun 13 17:59:43 GMT+03:00 2025] Product removed from cart: Lenovo, Price: 3000.0 by: cem@gmail.com
+[Fri Jun 13 18:07:54 GMT+03:00 2025] Product added to cart: Casper, Price: 2500.0 by: unknown
+[Fri Jun 13 18:07:54 GMT+03:00 2025] Discounted Total Updated: $2250.0
+[Fri Jun 13 18:08:09 GMT+03:00 2025] Product removed from cart: Casper, Price: 2500.0 by: unknown
+[Fri Jun 13 18:08:26 GMT+03:00 2025] Product added to cart: Test, Price: 11111.0 by: unknown
+[Fri Jun 13 18:08:26 GMT+03:00 2025] Discounted Total Updated: $9999.9
+[Fri Jun 13 18:08:34 GMT+03:00 2025] Product added to cart: Test, Price: 11111.0 by: unknown
+[Fri Jun 13 18:08:34 GMT+03:00 2025] Discounted Total Updated: $19999.8
+[Fri Jun 13 18:08:36 GMT+03:00 2025] Product removed from cart: Test, Price: 11111.0 by: unknown
+[Fri Jun 13 18:08:38 GMT+03:00 2025] Product removed from cart: Test, Price: 11111.0 by: unknown
+[Fri Jun 13 20:49:23 GMT+03:00 2025] Product added to cart: Monster, Price: 4000.0 by: cem@gmail.com
+[Fri Jun 13 20:49:23 GMT+03:00 2025] Discounted Total Updated: $3600.0
+[Fri Jun 13 20:50:44 GMT+03:00 2025] Product added to cart: Lenovo, Price: 3000.0 by: cem@gmail.com
+[Fri Jun 13 20:50:44 GMT+03:00 2025] Discounted Total Updated: $2700.0
+[Fri Jun 13 20:52:38 GMT+03:00 2025] Product added to cart: test, Price: 1111.0 by: cem@gmail.com
+[Fri Jun 13 20:52:38 GMT+03:00 2025] Discounted Total Updated: $999.9
+[Sat Jun 14 15:37:44 GMT+03:00 2025] Product added to cart: Macbook, Price: 5000.0 by: ahmet@gmail.com
+[Sat Jun 14 15:37:44 GMT+03:00 2025] Discounted Total Updated: $4500.0
+[Sat Jun 14 15:40:18 GMT+03:00 2025] Product added to cart: Nokia, Price: 300.0 by: ahmet@gmail.com
+[Sat Jun 14 15:40:18 GMT+03:00 2025] Discounted Total Updated: $270.0
+[Sat Jun 14 15:40:21 GMT+03:00 2025] Product removed from cart: Nokia, Price: 300.0 by: ahmet@gmail.com
+[Wed Jun 18 15:19:07 GMT+03:00 2025] Product added to cart: Macbook, Price: 5000.0 by: fatma@gmail.com
+[Wed Jun 18 15:19:07 GMT+03:00 2025] Discounted Total Updated: $4500.0
+[Wed Jun 18 15:21:56 GMT+03:00 2025] Product added to cart: test, Price: 111.0 by: fatma@gmail.com
+[Wed Jun 18 15:21:56 GMT+03:00 2025] Discounted Total Updated: $99.9
+[Wed Jun 18 15:24:45 GMT+03:00 2025] Product added to cart: Monster, Price: 4000.0 by: fatma@gmail.com
+[Wed Jun 18 15:24:45 GMT+03:00 2025] Discounted Total Updated: $3699.9
